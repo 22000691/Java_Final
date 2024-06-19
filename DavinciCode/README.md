@@ -1,7 +1,7 @@
 - Poject title = Davinci code
 - Project members = 22000691 정인경
 
--UMLdiagram
+- UMLdiagram
    <img src= 'https://github.com/22000691/Java_Final/blob/main/DavinciCode/screenshot/UMLdiagram.png?raw=true'>
 
 - Project description
