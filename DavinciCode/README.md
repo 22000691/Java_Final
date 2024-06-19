@@ -1,6 +1,9 @@
 - Poject title = Davinci code
 - Project members = 22000691 정인경
 
+-UMLdiagram
+   <img src= 'https://github.com/22000691/Java_Final/blob/main/DavinciCode/screenshot/UMLdiagram.png?raw=true'>
+
 - Project description
 
 다빈치 코드 보드게임을 자바swing을 사용하여 GUI로 구현하였다.
