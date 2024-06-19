@@ -27,9 +27,9 @@
    openUserTile/computerTile중 하나로 구현했다.
 8. 이 경우에는 원한다면 계속 상대방의 패를 맞출 수 있다.
 
-<img src= 'https://github.com/22000691/Java_Final/blob/main/DavinciCode/screenshot/Correct%20answer.png?raw=true'>
+   <img src= 'https://github.com/22000691/Java_Final/blob/main/DavinciCode/screenshot/Correct%20answer.png?raw=true'>
 9. 계속 맞히던 중, 아무 때나 차례를 중단하고 상대방에게 넘길 수 있다.(승자의 권리!)
 10. 틀릴 경우 플레이어는 그 차례에 가져갔던 블록을 공개하고 턴이 상대방에게 넘어간다.
 
-<img src= 'https://github.com/22000691/Java_Final/blob/main/DavinciCode/screenshot/WrongAnswer.png?raw=true'>
+   <img src= 'https://github.com/22000691/Java_Final/blob/main/DavinciCode/screenshot/WrongAnswer.png?raw=true'>
 11. 블록이 모두 공개된 사람은 패한다. 마지막까지 패가 남아 있는 사람이 승리한다.
